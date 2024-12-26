@@ -861,8 +861,7 @@ footer p {
 
 .foot-container iframe {
     width: 80%;
-    height: 60%;
-    margin-bottom: 5%;
+    height: 100%;
 }
 
 .social-foot {
