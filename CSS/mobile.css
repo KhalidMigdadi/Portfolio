@@ -1,0 +1,205 @@
+@media (max-width: 426px) {
+    form {
+        width: 100%;
+    }
+
+    .send {
+        padding: 2% 10%;
+    }
+
+    .container-skills {
+        flex-direction: column;
+        margin-bottom: 700px;
+    }
+
+    .home-info {
+        margin-bottom: 300px;
+    }
+
+
+    .home-info h1 {
+        margin-top: 100%;
+        font-size: 30px;
+        font-weight: 700;
+
+    }
+
+    .home-info h2 {
+        font-size: 20px;
+
+    }
+
+    .home {
+        padding: 10px;
+    }
+
+    .home-img {
+        margin-bottom: 320px;
+        width: 180%;
+
+    }
+
+    .home-img img {
+        top: 37%;
+        right: -15%;
+        width: 130%;
+    }
+
+    .home-img .my-img img {
+        position: absolute;
+        top: 38%;
+        right: -23%;
+        display: block;
+        width: 150%;
+        border-radius: 50%;
+        background-attachment: fixed;
+    }
+
+    .social-btns {
+        margin-left: -15px;
+
+    }
+
+    .education-container {
+        flex-direction: column-reverse;
+        width: 98%;
+
+    }
+
+
+
+
+
+
+    .head {
+        font-size: 20px;
+        width: 180px;
+        margin-bottom: 40px;
+    }
+
+    .education-img img {
+        width: 180%;
+        margin-left: 130%;
+        transform: translateX(-50%);
+    }
+
+
+    /* .social {
+        display: flex;
+    } */
+
+    .download-btn {
+        font-size: 10px;
+        padding: 10px 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+
+    }
+
+    .social a {
+        border: none;
+        font-size: 17px;
+        padding: 0px;
+        margin-right: 5px;
+        font-weight: 700;
+    }
+
+    .cards-projects {
+        width: 70%;
+    }
+
+    .tech-skills {
+        margin-left: -30px;
+    }
+
+    .all-tech-skills .tech,
+    .all-soft-skills .soft,
+    .projects h2,
+    .contact11 .contact11-btn {
+        font-size: 20px;
+        width: 180px;
+
+    }
+
+    .my-soft-skills {
+        margin-left: 90px;
+
+    }
+
+    .projects-container {
+        margin-left: 60px;
+        width: 80%;
+        width: 80%;
+
+
+    }
+
+
+    .project-card {
+        margin-left: -60px;
+
+    }
+
+
+
+    .all-soft-skills {
+        margin-top: -110px;
+    }
+
+    .foot-container .left-side .foot-logo {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .foot-container .left-side p {
+        margin-top: -30px;
+        text-align: center;
+        display: none;
+    }
+
+    .foot-container {
+        display: block;
+    }
+
+
+
+    .foot-links {
+        margin-left: -50px;
+        margin-top: 50px;
+        margin-bottom: 70px;
+    }
+
+    .foot-links li a {
+        margin-top: 10%;
+    }
+
+    .foot-container iframe {
+        margin-left: 10px;
+
+    }
+
+    footer iframe {
+        width: 50%;
+        height: 50%;
+        margin-bottom: 5%;
+        margin-left: 20%;
+    }
+
+
+    .social-foot {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        margin-top: -100px;
+
+    }
+
+    .foot-container .social-foot a {
+        margin-top: 25%;
+        margin-bottom: 10%;
+    }
+
+
+
+
+}
