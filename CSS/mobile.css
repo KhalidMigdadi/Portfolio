@@ -70,8 +70,11 @@
         display: none;
     }
 
-    .head-spare {
+    .head-spare,
+    .edu {
         display: block;
+        font-size: 20px;
+        width: 180px;
     }
 
     .education-container {
