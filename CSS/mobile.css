@@ -102,6 +102,10 @@
         transform: translateX(-50%);
     }
 
+    .card {
+        width: 100%;
+    }
+
 
     /* .social {
         display: flex;
